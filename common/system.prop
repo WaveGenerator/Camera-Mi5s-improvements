@@ -1,3 +1,12 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+# persist.camera.HAL3.enabled=1
+# persist.camera.is_type=5
+# Type 0 = None
+# Type 1 = Crop
+# Type 2 = DIS
+# Type 3 = Gyro Assited DIS
+# Type 4 = EIS 2.0
+# Type 5 = EIS 3.0
+# persist.camera.eis.enable=1

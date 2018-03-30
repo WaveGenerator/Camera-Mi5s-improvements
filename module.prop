@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=camera_mi5s_libs
+name=camera_mi5s_libs
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-minMagisk=1500
+author=#defcomk tadi wg eszdman
+description=This adds Camera libhacks to Mi 5s. PhotoRes 4056*3040. Video: no flashes, 720p*240fps, 1080p*60fps fullRes, 4k*40fps.
+template=1400
