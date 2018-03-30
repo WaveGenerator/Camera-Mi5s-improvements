@@ -1,5 +1,5 @@
 # Magisk Module Template
 
-This adds Camera libhacks to Mi 5s. 
-credits: @defcomq(k), Tadi, WG
-
+This adds Camera libhacks to Xiaomi Mi5s Global Stable ROM. 
+credits: @defcomq(k), Tadi, eszdman, me
+donations welcome: www.paypal.me/wavegenerator
