@@ -4,4 +4,4 @@ version=v1
 versionCode=1
 author=#defcomk tadi eszdman me
 description=This adds Camera libhacks to Xiaomi Mi5s Global Stable ROM. PhotoRes 4056*3040. Video: no flashes, 720p*240fps, 1080p*60fps fullRes, 4k*40fps. Sound: swap channels as must be. Donations welcome: www.paypal.me/wavegenerator
-template=1500
+minMagisk=1500
