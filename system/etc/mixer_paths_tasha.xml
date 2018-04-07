@@ -2392,8 +2392,8 @@
         <ctl name="AIF1_CAP Mixer SLIM TX8" value="1"/>
     <ctl name="ADC3 Volume" value="12"/>
     <ctl name="ADC1 Volume" value="12"/>
-    <ctl name="DEC7 Volume" value="102"/>
-    <ctl name="DEC8 Volume" value="107"/>
+    <ctl name="DEC7 Volume" value="90"/>
+    <ctl name="DEC8 Volume" value="90"/>
         <ctl name="SLIM TX7 MUX" value="DEC7"/>
         <ctl name="ADC MUX7" value="AMIC"/>
         <ctl name="AMIC MUX7" value="ADC3"/>
@@ -2573,8 +2573,8 @@
         <ctl name="SLIM TX7 MUX" value="DEC7"/>
     <ctl name="ADC3 Volume" value="12"/>
     <ctl name="ADC1 Volume" value="12"/>
-    <ctl name="DEC7 Volume" value="102"/>
-    <ctl name="DEC8 Volume" value="107"/>
+    <ctl name="DEC7 Volume" value="90"/>
+    <ctl name="DEC8 Volume" value="90"/>
         <ctl name="ADC MUX7" value="AMIC"/>
         <ctl name="AMIC MUX7" value="ADC3"/>
         <ctl name="SLIM TX8 MUX" value="DEC8"/>
@@ -2769,6 +2769,8 @@
     </path>
 
 </mixer>
+
+
 
 
 
